@@ -1,0 +1,6 @@
+#IDE specific exclusions
+**/.idea
+**/*.iml
+
+# Build tool specific exclusions
+**/target
